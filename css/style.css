@@ -1,0 +1,16 @@
+.img-logo{
+ width: 100px;
+ height: auto;
+ margin-left: 15px;   
+}
+.navbar-dark .navbar-nav .nav-link {
+    color:#ffffff ;
+  }
+
+.nav-link{
+  font-size: 20pt;  
+}
+.footer{
+background-color: 	#E9967A;
+color:#ffffff;
+}
